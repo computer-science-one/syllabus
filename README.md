@@ -29,7 +29,7 @@ Emphasis on problem solving using Ruby and principles of structured software dev
 These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
  
 ## Textbook
-Tom Richards, *[Computer Science 101 with Ruby][6] &nbsp; (Online)*, 2016-04-29.
+Tom Richards, *[Introduction to Computer Science Using Ruby][6] &nbsp; (Online)*, 2016-04-29.
 
 [1]: https://www.ruby-lang.org/en/
 [2]: https://en.wikiversity.org/wiki/Introduction_to_Computers
