@@ -1,7 +1,7 @@
 # Computer Science One Syllabus
 
  - **Course:** Computer Science I
- - **Instructor:** Tom Richards, tom@tomrichards.net
+ - **Instructor:** Tom Richards, https://tomrichards.net/
  - **Need help?**
    - [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][7]
    - Look through and create [issues][8]
